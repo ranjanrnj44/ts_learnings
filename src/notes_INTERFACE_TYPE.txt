@@ -1,0 +1,2 @@
+1. Use obj,class for interface types
+2. Use type for generic purpose
